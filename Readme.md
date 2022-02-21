@@ -1,1 +1,0 @@
-This is a ALX pre_course program. It is not yet specialised for any job. It is for studies only.
